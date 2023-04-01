@@ -7,3 +7,4 @@ cacheUrl: https://oeyoews.github.io/neofeed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://neotw.oeyoewl.top/atom.xml
+  - href: https://rsshub.app/github/issue/ruanyf/weekly
