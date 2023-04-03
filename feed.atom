@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oeyoews.github.io/neofeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T00:29:25.597Z</updated>
+    <updated>2023-04-03T00:27:24.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://oeyoews.github.io/neofeed/index.html"/>
     <link rel="self" href="https://oeyoews.github.io/neofeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【开源自荐】RingRobotX: 一个采用单轮对话设计的中文模块化语音机器人框架]]></title>
+        <id>https://github.com/ruanyf/weekly/issues/3030</id>
+        <link href="https://github.com/ruanyf/weekly/issues/3030"/>
+        <updated>2023-04-02T12:44:40.000Z</updated>
+        <summary type="html"><![CDATA[官网：https://www.waterflames.cn/ringrobotx
+仓库：https://github.com/waterflames-team/ring-robot-x
+介绍
+这是一个采用单轮对话设计的中文模块化语音机器人框架，由 WaterFlames团队 使用 Python 制作，根据本团队项目 Lingkong-Robot 重构而来。
+可用于智能音箱，语言遥控，甚至智能客服、家庭管家、微信机器人等等。
+目的是让中国的 Maker 们也能够「一小时」入门，无需过多以及不必要的配置。
+特色功能：
+技能包具有较强的灵活性，可随意支配技能
+命令窗口直接对话
+配置简单化，配置可以在 config 目录修改，避免直接修改源代码
+实现了连续对话，终于可以和机器人玩成语接龙了
+开放，简洁的接口，接入简单
+高度可自定义
+开放的 HTTP 接口，让你的应用程序快速接入 RingRobotX 框架]]></summary>
+        <author>
+            <name>epeiuss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【文章自荐】<月球的阴影> - ChatGPT 编写的科幻小说]]></title>
+        <id>https://github.com/ruanyf/weekly/issues/3029</id>
+        <link href="https://github.com/ruanyf/weekly/issues/3029"/>
+        <updated>2023-04-02T08:44:45.000Z</updated>
+        <summary type="html"><![CDATA[分享一次我和 ChatGPT 的一次对话,在对话中,我给 ChatGPT 一个开头, 它完成了剩余的小说部分, 还给每个小说里的角色找了适合他们的演员, 最后还给出了电影海报的提示词, 以及我用这个提示词生成的电影海报.
+我给的开头：
+根据下面这个故事线, 写一部科幻小说: “在2023年的一个晚上，一个程序员刚刚完成他的工作，准备像往常一样回家，一切都和往常一样，街道，公司，社交网络，公共汽车……他突然注意到，月亮看起来并不像往常一样，它比以前更大了。”
+https://1link.fun/blog/fiction-novel-by-chat-gpt/]]></summary>
+        <author>
+            <name>jwenjian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【开源自荐】gptcache，给大语言模型添加一层缓存，类似于redis]]></title>
         <id>https://github.com/ruanyf/weekly/issues/3028</id>
